@@ -1,5 +1,5 @@
 # **Jacqueline Singer**
-![POLARBEAR](IMG_0602.jpeg)
+![CASPER](IMG_0602.jpeg)
 
 ## Education: 
 - [Colgate University](https://colgate.edu)
