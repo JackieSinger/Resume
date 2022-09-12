@@ -7,4 +7,4 @@
 
 ## Research Interests:
 - Marine Geophysics
-- S
+- Seismology
