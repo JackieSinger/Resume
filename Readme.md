@@ -4,3 +4,7 @@
 ## Education: 
 - [Colgate University](https://colgate.edu)
 - [Queens College CUNY](https://www.qc.cuny.edu)
+
+## Research Interests:
+- Marine Geophysics
+- S
