@@ -1,5 +1,5 @@
 # **Jacqueline Singer**
-<img src="IMG_0602.jpeg" width="250" height="300">
+<img src="IMG_0602.jpeg" width="230" height="300">
 
 ## Education: 
 - [Colgate University](https://colgate.edu)
