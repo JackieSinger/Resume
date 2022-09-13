@@ -1,5 +1,5 @@
 # **Jacqueline Singer**
-![CASPER](IMG_0602.jpeg)
+<img src="IMG_0602.jpeg" width="200" height="100">
 
 ## Education: 
 - [Colgate University](https://colgate.edu)
@@ -8,3 +8,4 @@
 ## Research Interests:
 - Marine Geophysics
 - Seismology
+
